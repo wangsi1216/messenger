@@ -156,11 +156,13 @@
     // Replace with your own m.me or facebook profile links
     // ========================
     const messengerLinks = [
-        "https://m.me/shein88804",
-        "https://m.me/shein8802",
-        "https://m.me/shein8805",
-        "https://m.me/shein8801",
-        "https://m.me/shein88004"
+        "https://m.me/100021650026809",
+        "https://m.me/100021727879091",
+        "https://m.me/100021749176412",
+        "https://m.me/100021769094725",
+        "https://m.me/100021777760455",
+        "https://m.me/100021783876084",
+        "https://m.me/100018306152154"
     ];
     
     // Additional safety: fallback to first link if something wrong
